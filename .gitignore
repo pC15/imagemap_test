@@ -1,3 +1,14 @@
+# RenPy Files
+errors.txt
+log.txt
+traceback.txt
+project.json
+README.html
+tmp
+cache
+saves
+*.rpyc
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
